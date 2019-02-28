@@ -1,7 +1,7 @@
-## 无人驾驶中的视觉算法
+## Visual algorithm in personalized driving
 
-* 车道线检测
-* 物体识别
-* 语义分割
+* Lane detection
+* Object recognition
+* Semantic segmentation
 
-同时，需要考虑到嵌入式系统的性能，需要将各个算法全部整合，形成一个系统和综合的算法
+At the same time, it is necessary to consider the performance of the embedded system, and all the algorithms need to be integrated to form a system and a comprehensive algorithm.
